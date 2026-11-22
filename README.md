@@ -1,6 +1,7 @@
 # Credit Card Default Prediction
 
-Predict whether a credit card customer will **default (1)** or **not default (0)**, based on demographic, financial and credit-history data from the American Express dataset. The project includes the exploratory notebook and a **Streamlit web app** where you upload a CSV and download predictions.
+Predict whether a credit card customer will **default (1)** or **not default (0)**, based on demographic, financial and credit-history data from the American Express dataset. The project includes the exploratory notebook and a **Streamlit web app** where you upload a CSV and download predictions. 
+App url: https://credit-risk-defaultpredictor.streamlit.app/
 
 ## Project overview
 
